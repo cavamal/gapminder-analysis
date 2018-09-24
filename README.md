@@ -1,2 +1,2 @@
-#This data analysis project is using data from Gapminder (https://www.gapminder.org/data/) to answer questions I'm curious about. 
+# This data analysis project is using data from Gapminder (https://www.gapminder.org/data/) to answer questions I'm curious about. 
 I'm currently searching through datasets to figure out some interesting questions to answer. 
